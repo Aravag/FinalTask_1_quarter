@@ -8,4 +8,4 @@
 >Ниже прикрепляю блок-схему решения.
 
 ![Блок-схема решения](https://github.com/Aravag/FinalTask_GB/blob/main/Block-diagram.png?raw=true)
-<!-- <img src="https://github.com/Aravag/FinalTask_GB/blob/main/Block-diagram.png?raw=true" /> -->
+<!-- <img src="https://github.com/Aravag/FinalTask_GB/blob/main/Block-diagram.png?raw=true" alt="Блок-схема решения"/> -->
